@@ -3,15 +3,15 @@ In this repo, I have describe Telco BSS AWS base Cloud Native architecture with 
 
 Business Support Systems (BSS) are a set of software components and functions interconnected together to grant the monetization of the communication service providers (CSPs), or simply the operators. BSS are the backbone of a service provider’s customer-facing strategy. BSS encompasses the spectrum from marketing, shopping, ordering, charging, taxation, invoicing, payments collection, dunning, and ultimately financial reporting. There are four primary domains: product management, order management, revenue management, and customer management.
 
-The telco network is mainly divided into two main big block the OSS (Operation support system) and BSS(Business support system). In this article we are focusing on BSS and it infra structure. Below snap will show the end to end flow diagram of CRM and BSS system and how is communication.
+The telco network is mainly divided into two main big block the OSS (Operation support system) and BSS(Business support system). In this repo on BSS Cloud native architecture we are focusing on BSS and it infra structure on AWS. Below snap will show the end to end flow diagram of CRM and BSS system and how is communication.
 
 ![image](https://github.com/fazalUllah-Khan/Telco-BSS-Business-support-System-Cloud-Native-Architecture-on-AWS/assets/148821704/8cf58a0a-6201-4b30-a591-834bb55ff78d)
 
 CRM system processes are very important to CSPs to deliver consistently superior customer experience. They also need to come up with a unified product catalog for the customer regardless of geography and market segment, and maintain a unified master database.
 
-In this article for BSS infrastrucre implemenation on AWS I am taking refence architecture of Amdocs. Amdocs CES21 is a 5G native integrated BSS operations support system (OSS) suite. It is a cloud-native, open, and modular suite that supports many of the world’s top CSPs on their digital and 5G journeys.
+In this repo for BSS infrastrucre implemenation on AWS I am taking refence architecture of Amdocs. Amdocs CES21 is a 5G native integrated BSS operations support system (OSS) suite. It is a cloud-native, open, and modular suite that supports many of the world’s top CSPs on their digital and 5G journeys.
 
-Although there are multiple options for deploying the Digital Brand Experience Suite into an AWS environment, the Archtural diagrams reference in this repo primarily focus on deploying into a multi-tenant SaaS architecture. 
+Although there are multiple options for deploying the Digital Brand Experience Suite into an AWS environment, the Architectural diagrams reference in this repo primarily focus on deploying into a multi-tenant SaaS architecture. 
 
 # Technical architecture 
 
